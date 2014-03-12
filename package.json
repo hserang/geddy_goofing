@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "chai": "^1.9.0",
+    "mocha": "^1.17.1"
+  },
+  "dependencies": {
+    "socket.io": "^0.9.16",
+    "jake": "0.5.x",
+    "passport": "0.1.x",
+    "passport-twitter": "0.1.x",
+    "passport-facebook": "0.1.x",
+    "passport-yammer": "0.1.x",
+    "bcrypt": "0.7.x"
+  }
+}
